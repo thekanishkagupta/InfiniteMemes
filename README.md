@@ -1,7 +1,6 @@
 # MemeShare
 
-An android application, that brings unlimited memes from the internet and can be shared with others. 
-• Glide and volley libraries are used.
+An android application, that brings unlimited memes from the internet and can be shared with others. Glide and volley libraries are used.
 
 ![Screenshot_2020-12-19-00-31-52-82](https://user-images.githubusercontent.com/59255776/102654251-409f1780-4196-11eb-8bb3-52d58dd81c59.jpg)
 
