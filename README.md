@@ -4,13 +4,12 @@ An android application, that brings unlimited memes from the internet and can be
 
 ## Screenshots
 <p>
-<img src="https://user-images.githubusercontent.com/59255776/178132826-2eb3e7c0-a7bd-4882-87f1-40d811586e40.pngg" alt="feed example" width = "400" >
+<img src="https://user-images.githubusercontent.com/59255776/178132826-2eb3e7c0-a7bd-4882-87f1-40d811586e40.png" alt="feed example" width = "400" >
 <img src="https://user-images.githubusercontent.com/59255776/178132828-9a841eff-9066-455f-97fd-efd30a6e7896.png" alt="feed example" width = "400" >
 
 </p>
 
-
-## Implemented Libraries<img width="810" alt="Untitled design (48)" src="https://user-images.githubusercontent.com/59255776/178132819-9da70391-2017-4e78-99d1-922a3cdb7753.png">
+## Implemented Libraries
 
  * Glide library is used, which is an Image Loader Library for Android. It provides animated GIF support and handles image loading/caching.
  * Volley library is used, which is an HTTP library that makes networking for Android apps easier and faster. 
