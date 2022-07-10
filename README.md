@@ -3,13 +3,21 @@
 An android application, that brings unlimited memes from the internet and can be shared with others. 
 
 ## Screenshots
-<p>
-<img src="https://user-images.githubusercontent.com/59255776/178133988-348e7dd8-e741-4172-bf14-50bb5c0428d9.jpg" alt="feed example" width = "400" >
-<img src="https://user-images.githubusercontent.com/59255776/178133989-00ad987e-25a4-490d-bab0-6ec09ad2d94c.jpg" alt="feed example" width = "400" >
-<img src="https://user-images.githubusercontent.com/59255776/178133990-3bfb95f7-a8aa-4dd0-81b5-3a44dee7165e.jpg" alt="feed example" width = "400" >
-<img src="https://user-images.githubusercontent.com/59255776/178133984-b6f665dd-aaab-4859-8df7-2ffc3c6932ad.jpg" alt="feed example" width = "400" >
+* Splash Screen
+<img src="https://user-images.githubusercontent.com/59255776/178134135-8a3836f7-e79a-4384-847c-6560d9ccbf0f.jpg" >
 
-</p>
+
+* Meme Displayed
+<img src="https://user-images.githubusercontent.com/59255776/178133989-00ad987e-25a4-490d-bab0-6ec09ad2d94c.jpg"  >
+
+
+* Meme Displayed
+<img src="https://user-images.githubusercontent.com/59255776/178133990-3bfb95f7-a8aa-4dd0-81b5-3a44dee7165e.jpg"  >
+
+
+* Sharing the meme
+<img src="https://user-images.githubusercontent.com/59255776/178133988-348e7dd8-e741-4172-bf14-50bb5c0428d9.jpg" >
+
 
 ## Implemented Libraries
 
@@ -18,7 +26,8 @@ An android application, that brings unlimited memes from the internet and can be
 
 ## Any Queries?🤔
  
- Ask me on <a href="https://www.linkedin.com/in/thekanishkagupta/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
+ Ask me on 
+<a href="https://www.linkedin.com/in/thekanishkagupta/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 
 ## How to Contribute
