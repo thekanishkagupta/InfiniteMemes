@@ -11,7 +11,7 @@ An android application, that brings unlimited memes from the internet and can be
 <img src="https://user-images.githubusercontent.com/59255776/178133989-00ad987e-25a4-490d-bab0-6ec09ad2d94c.jpg"  >
 
 
-* Meme Displayed
+*Another Meme Displayed
 <img src="https://user-images.githubusercontent.com/59255776/178133990-3bfb95f7-a8aa-4dd0-81b5-3a44dee7165e.jpg"  >
 
 
