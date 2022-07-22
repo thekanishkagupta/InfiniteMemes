@@ -23,6 +23,26 @@ An android application, that brings unlimited memes from the internet and can be
 
  * Glide library is used, which is an Image Loader Library for Android. It provides animated GIF support and handles image loading/caching.
  * Volley library is used, which is an HTTP library that makes networking for Android apps easier and faster. 
+ 
+ 
+ ## Working Explained
+  * How does Glide works?
+ When we provide the URL to the Glide, it does the following:
+
+1. It checks if the image with that URL key is available in the memory cache or not.
+2. If present in the memory cache, it just shows the bitmap by taking it from the memory cache.
+3. If not present in the memory cache, it checks in the disk cache.
+4. If present in the disk cache, it loads the bitmap from the disk, also puts it in the memory cache and load the bitmap into the view.
+5. If not present in the disk cache, it downloads the image from the network, puts it in the disk cache, also puts it in the memory cache and load the bitmap into the view.
+
+ * How does Volley works?
+  It manages the processing and caching of network requests by doing following operations.
+1. Request queuing and prioritization
+2. Effective request cache and memory management
+3. Extensibility and customization of the library to our needs
+4. Canceling the requests
+
+
 
 ## Any Queries?🤔
  
@@ -36,6 +56,7 @@ An android application, that brings unlimited memes from the internet and can be
 3. Make required changes and commit (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
+
 
 ## License
 
