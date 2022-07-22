@@ -27,7 +27,7 @@ An android application, that brings unlimited memes from the internet and can be
  
  ## Working Explained
   * How does Glide works?
- When we provide the URL to the Glide, it does the following:
+When we provide the URL to the Glide, it does the following:-
 
 1. It checks if the image with that URL key is available in the memory cache or not.
 2. If present in the memory cache, it just shows the bitmap by taking it from the memory cache.
@@ -36,7 +36,7 @@ An android application, that brings unlimited memes from the internet and can be
 5. If not present in the disk cache, it downloads the image from the network, puts it in the disk cache, also puts it in the memory cache and load the bitmap into the view.
 
  * How does Volley works?
-  It manages the processing and caching of network requests by doing following operations.
+It manages the processing and caching of network requests by doing following operations:-
 1. Request queuing and prioritization
 2. Effective request cache and memory management
 3. Extensibility and customization of the library to our needs
